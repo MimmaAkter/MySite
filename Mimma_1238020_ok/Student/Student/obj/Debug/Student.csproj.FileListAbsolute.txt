@@ -1,0 +1,36 @@
+C:\Users\Lab3_2\Desktop\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+C:\Users\Lab3_2\Desktop\Student\Student\bin\Student.dll.config
+C:\Users\Lab3_2\Desktop\Student\Student\bin\Student.dll
+C:\Users\Lab3_2\Desktop\Student\Student\bin\Student.pdb
+C:\Users\Lab3_2\Desktop\Student\Student\obj\Debug\Student.dll
+C:\Users\Lab3_2\Desktop\Student\Student\obj\Debug\Student.pdb
+C:\Users\Mimma Aktar\Desktop\Student\Student\bin\Student.dll.config
+C:\Users\Mimma Aktar\Desktop\Student\Student\bin\Student.dll
+C:\Users\Mimma Aktar\Desktop\Student\Student\bin\Student.pdb
+C:\Users\Mimma Aktar\Desktop\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+C:\Users\Mimma Aktar\Desktop\Student\Student\obj\Debug\Student.dll
+C:\Users\Mimma Aktar\Desktop\Student\Student\obj\Debug\Student.pdb
+G:\Student\Student\bin\Student.dll.config
+G:\Student\Student\bin\Student.dll
+G:\Student\Student\bin\Student.pdb
+G:\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+G:\Student\Student\obj\Debug\Student.dll
+G:\Student\Student\obj\Debug\Student.pdb
+F:\Mimma Akter\Student\Student\bin\Student.dll.config
+F:\Mimma Akter\Student\Student\bin\Student.dll
+F:\Mimma Akter\Student\Student\bin\Student.pdb
+F:\Mimma Akter\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+F:\Mimma Akter\Student\Student\obj\Debug\Student.dll
+F:\Mimma Akter\Student\Student\obj\Debug\Student.pdb
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student\Student\bin\Student.dll.config
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student\Student\bin\Student.dll
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student\Student\bin\Student.pdb
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student\Student\obj\Debug\Student.dll
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student\Student\obj\Debug\Student.pdb
+C:\module2\Mimma_1238020_ok\Student\Student\bin\Student.dll.config
+C:\module2\Mimma_1238020_ok\Student\Student\bin\Student.dll
+C:\module2\Mimma_1238020_ok\Student\Student\bin\Student.pdb
+C:\module2\Mimma_1238020_ok\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+C:\module2\Mimma_1238020_ok\Student\Student\obj\Debug\Student.dll
+C:\module2\Mimma_1238020_ok\Student\Student\obj\Debug\Student.pdb

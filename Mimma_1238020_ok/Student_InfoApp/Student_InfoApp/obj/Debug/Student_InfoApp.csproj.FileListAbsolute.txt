@@ -1,0 +1,217 @@
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\bin\Debug\App.xbf
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\bin\Debug\MainPage.xbf
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.exe
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.pdb
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\bin\Debug\resources.pri
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\bin\Debug\AppxManifest.xml
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.build.appxrecipe
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\App.g.i.cs
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\App.g.cs
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.g.i.cs
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.g.cs
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\App.xaml
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\App.xbf
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.xaml
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.xbf
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\Student_InfoApp.exe
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\Student_InfoApp.pdb
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\priconfig.xml
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\layout.resfiles
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\resources.resfiles
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\pri.resfiles
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\qualifiers.txt
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mimma Aktar\Desktop\C#\module2\Student_InfoApp\Student_InfoApp\obj\Debug\ProjectArchitectures.txt
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\App.g.i.cs
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\App.g.cs
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.g.i.cs
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.g.cs
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\App.xaml
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\App.xbf
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.xaml
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.xbf
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\Student_InfoApp.exe
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\bin\Debug\App.xbf
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\bin\Debug\MainPage.xbf
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.exe
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.pdb
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\bin\Debug\resources.pri
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\bin\Debug\AppxManifest.xml
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.build.appxrecipe
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\Student_InfoApp.pdb
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\priconfig.xml
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\layout.resfiles
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\resources.resfiles
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\pri.resfiles
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\qualifiers.txt
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Lab3_2\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\ProjectArchitectures.txt
+F:\Student_InfoApp\Student_InfoApp\bin\Debug\App.xbf
+F:\Student_InfoApp\Student_InfoApp\bin\Debug\MainPage.xbf
+F:\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.exe
+F:\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.pdb
+F:\Student_InfoApp\Student_InfoApp\bin\Debug\resources.pri
+F:\Student_InfoApp\Student_InfoApp\bin\Debug\AppxManifest.xml
+F:\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.build.appxrecipe
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\App.g.i.cs
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\App.g.cs
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.g.i.cs
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.g.cs
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\XamlTypeInfo.g.cs
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\App.xaml
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.xaml
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\App.xbf
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.xbf
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\XamlSaveStateFile.xml
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\Student_InfoApp.exe
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\Student_InfoApp.pdb
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\priconfig.xml
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\priconfig.xml.intermediate
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\layout.resfiles
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\layout.resfiles.intermediate
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\resources.resfiles
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\resources.resfiles.intermediate
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\pri.resfiles
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\pri.resfiles.intermediate
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\qualifiers.txt
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\qualifiers.txt.intermediate
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Student_InfoApp\Student_InfoApp\obj\Debug\ProjectArchitectures.txt
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\bin\Debug\App.xbf
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\bin\Debug\MainPage.xbf
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.exe
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.pdb
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\bin\Debug\resources.pri
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\bin\Debug\AppxManifest.xml
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.build.appxrecipe
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\App.g.i.cs
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\App.g.cs
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.g.i.cs
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.g.cs
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\App.xaml
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.xaml
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\App.xbf
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.xbf
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\Student_InfoApp.exe
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\Student_InfoApp.pdb
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\priconfig.xml
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\layout.resfiles
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\resources.resfiles
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\pri.resfiles
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\qualifiers.txt
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mimma Aktar\Desktop\Student_InfoApp\Student_InfoApp\obj\Debug\ProjectArchitectures.txt
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\bin\Debug\App.xbf
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\bin\Debug\MainPage.xbf
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.exe
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.pdb
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\bin\Debug\resources.pri
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\bin\Debug\AppxManifest.xml
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.build.appxrecipe
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\App.g.i.cs
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\App.g.cs
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.g.i.cs
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.g.cs
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\XamlTypeInfo.g.cs
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\App.xaml
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.xaml
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\App.xbf
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.xbf
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\XamlSaveStateFile.xml
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\Student_InfoApp.exe
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\Student_InfoApp.pdb
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\priconfig.xml
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\priconfig.xml.intermediate
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\layout.resfiles
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\layout.resfiles.intermediate
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\resources.resfiles
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\resources.resfiles.intermediate
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\pri.resfiles
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\pri.resfiles.intermediate
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\qualifiers.txt
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\qualifiers.txt.intermediate
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Mimma Akter\Student_InfoApp\Student_InfoApp\obj\Debug\ProjectArchitectures.txt
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\bin\Debug\App.xbf
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\bin\Debug\MainPage.xbf
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.exe
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.pdb
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\bin\Debug\resources.pri
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\bin\Debug\AppxManifest.xml
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.build.appxrecipe
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\App.g.i.cs
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\App.g.cs
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.g.i.cs
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.g.cs
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\XamlTypeInfo.g.cs
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\App.xaml
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.xaml
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\App.xbf
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.xbf
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\XamlSaveStateFile.xml
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\Student_InfoApp.exe
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\Student_InfoApp.pdb
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\priconfig.xml
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\priconfig.xml.intermediate
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\layout.resfiles
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\layout.resfiles.intermediate
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\resources.resfiles
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\resources.resfiles.intermediate
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\pri.resfiles
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\pri.resfiles.intermediate
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\qualifiers.txt
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\qualifiers.txt.intermediate
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\IDB\Core\r-33\MOdule1\Projects\Final Projects\Mimma_1238020\Student_InfoApp\Student_InfoApp\obj\Debug\ProjectArchitectures.txt
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\bin\Debug\App.xbf
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\bin\Debug\MainPage.xbf
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.exe
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.pdb
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\bin\Debug\resources.pri
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\bin\Debug\AppxManifest.xml
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.build.appxrecipe
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\App.g.i.cs
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\App.g.cs
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.g.i.cs
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.g.cs
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\XamlTypeInfo.g.cs
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\App.xaml
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.xaml
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\App.xbf
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\MainPage.xbf
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\XamlSaveStateFile.xml
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\Student_InfoApp.exe
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\Student_InfoApp.pdb
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\priconfig.xml
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\priconfig.xml.intermediate
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\layout.resfiles
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\layout.resfiles.intermediate
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\resources.resfiles
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\resources.resfiles.intermediate
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\pri.resfiles
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\pri.resfiles.intermediate
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\qualifiers.txt
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\qualifiers.txt.intermediate
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\module2\Mimma_1238020_ok\Student_InfoApp\Student_InfoApp\obj\Debug\ProjectArchitectures.txt
