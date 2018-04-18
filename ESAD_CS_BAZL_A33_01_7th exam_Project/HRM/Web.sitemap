@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="homepage.aspx" title="HOME"  description="">
+      <siteMapNode url="Company.aspx" title="Company"  description="" />
+      <siteMapNode url="Division.aspx" title="Branch"  description="" />
+      <siteMapNode url="Attend.aspx" title="Attendence"  description="" />
+      <siteMapNode url="Benefit.aspx" title="Benifit"  description="" />
+        <!--<siteMapNode url="contactpage.aspx" title="Contact"  description="" />-->
+        <!--<siteMapNode url="demopage.aspx" title="About"  description="" />-->
+      <siteMapNode url="DEpt.aspx" title="Department"  description="" />
+      <siteMapNode url="DesigPage.aspx" title="Designation"  description="" />
+      <siteMapNode url="Employee_TypeShow.aspx" title="Employee Type"  description="" />
+      <siteMapNode url="Emplyee.aspx" title="Employee"  description="" />
+      <siteMapNode url="Grade.aspx" title="Grade"  description="" />
+      <!--<siteMapNode url="ourofferspage.aspx" title="Offer"  description="" />-->
+      <siteMapNode url="section.aspx" title="Section"  description="" />
+      <!--<siteMapNode url="socialpage.aspx" title="Social"  description="" />-->
+      <siteMapNode url="Promotion.aspx" title="Promotion"  description="" />
+      <siteMapNode url="TransferSet.aspx" title="Transfer"  description="" />
+      <siteMapNode url="SalaryReport.aspx" title="Salary Report"  description="" />
+      <siteMapNode url="AttendenceReport.aspx" title="Attendance Report"  description="" />
+    </siteMapNode>
+</siteMap>

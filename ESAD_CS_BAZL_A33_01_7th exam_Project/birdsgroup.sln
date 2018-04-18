@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRM", "HRM\HRM.csproj", "{ADB49D1C-CEFA-42FE-8A05-5900E7790C8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRM_BLL", "HRM_BLL\HRM_BLL.csproj", "{C6AF49DF-1698-4BF3-870D-7AB4288EF166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRM_DAL", "HRM_DAL\HRM_DAL.csproj", "{6211600C-0076-4D8B-9602-CB14B935CEA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB49D1C-CEFA-42FE-8A05-5900E7790C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB49D1C-CEFA-42FE-8A05-5900E7790C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB49D1C-CEFA-42FE-8A05-5900E7790C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB49D1C-CEFA-42FE-8A05-5900E7790C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6AF49DF-1698-4BF3-870D-7AB4288EF166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6AF49DF-1698-4BF3-870D-7AB4288EF166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6AF49DF-1698-4BF3-870D-7AB4288EF166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6AF49DF-1698-4BF3-870D-7AB4288EF166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6211600C-0076-4D8B-9602-CB14B935CEA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6211600C-0076-4D8B-9602-CB14B935CEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6211600C-0076-4D8B-9602-CB14B935CEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6211600C-0076-4D8B-9602-CB14B935CEA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

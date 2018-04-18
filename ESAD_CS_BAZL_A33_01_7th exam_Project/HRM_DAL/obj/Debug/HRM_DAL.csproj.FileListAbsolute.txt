@@ -1,0 +1,35 @@
+D:\birdsgroup(jahangir)\HRM_DAL\bin\Debug\HRM_DAL.dll
+D:\birdsgroup(jahangir)\HRM_DAL\bin\Debug\HRM_DAL.pdb
+D:\birdsgroup(jahangir)\HRM_DAL\bin\Debug\HRM_BLL.dll
+D:\birdsgroup(jahangir)\HRM_DAL\bin\Debug\HRM_BLL.pdb
+D:\birdsgroup(jahangir)\HRM_DAL\obj\Debug\HRM_DAL.csprojResolveAssemblyReference.cache
+D:\birdsgroup(jahangir)\HRM_DAL\obj\Debug\HRM_DAL.dll
+D:\birdsgroup(jahangir)\HRM_DAL\obj\Debug\HRM_DAL.pdb
+G:\(Assignment)\hrms\birdsgroup(jahangir)\HRM_DAL\bin\Debug\HRM_DAL.dll
+G:\(Assignment)\hrms\birdsgroup(jahangir)\HRM_DAL\bin\Debug\HRM_DAL.pdb
+G:\(Assignment)\hrms\birdsgroup(jahangir)\HRM_DAL\bin\Debug\HRM_BLL.dll
+G:\(Assignment)\hrms\birdsgroup(jahangir)\HRM_DAL\bin\Debug\HRM_BLL.pdb
+G:\(Assignment)\hrms\birdsgroup(jahangir)\HRM_DAL\obj\Debug\HRM_DAL.csprojResolveAssemblyReference.cache
+G:\(Assignment)\hrms\birdsgroup(jahangir)\HRM_DAL\obj\Debug\HRM_DAL.dll
+G:\(Assignment)\hrms\birdsgroup(jahangir)\HRM_DAL\obj\Debug\HRM_DAL.pdb
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final_project\New folder\HRM_DAL\bin\Debug\HRM_DAL.dll
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final_project\New folder\HRM_DAL\bin\Debug\HRM_DAL.pdb
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final_project\New folder\HRM_DAL\bin\Debug\HRM_BLL.dll
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final_project\New folder\HRM_DAL\bin\Debug\HRM_BLL.pdb
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final_project\New folder\HRM_DAL\obj\Debug\HRM_DAL.csprojResolveAssemblyReference.cache
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final_project\New folder\HRM_DAL\obj\Debug\HRM_DAL.dll
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final_project\New folder\HRM_DAL\obj\Debug\HRM_DAL.pdb
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final\HRM_DAL\obj\Debug\HRM_DAL.csprojResolveAssemblyReference.cache
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final\HRM_DAL\bin\Debug\HRM_DAL.dll
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final\HRM_DAL\bin\Debug\HRM_DAL.pdb
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final\HRM_DAL\bin\Debug\HRM_BLL.dll
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final\HRM_DAL\bin\Debug\HRM_BLL.pdb
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final\HRM_DAL\obj\Debug\HRM_DAL.dll
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final\HRM_DAL\obj\Debug\HRM_DAL.pdb
+D:\Mimma Akter\Module-7\ESAD_CS_BAZL_A33_01_7th exam_Project\HRM_DAL\bin\Debug\HRM_DAL.dll
+D:\Mimma Akter\Module-7\ESAD_CS_BAZL_A33_01_7th exam_Project\HRM_DAL\bin\Debug\HRM_DAL.pdb
+D:\Mimma Akter\Module-7\ESAD_CS_BAZL_A33_01_7th exam_Project\HRM_DAL\bin\Debug\HRM_BLL.dll
+D:\Mimma Akter\Module-7\ESAD_CS_BAZL_A33_01_7th exam_Project\HRM_DAL\bin\Debug\HRM_BLL.pdb
+D:\Mimma Akter\Module-7\ESAD_CS_BAZL_A33_01_7th exam_Project\HRM_DAL\obj\Debug\HRM_DAL.csprojResolveAssemblyReference.cache
+D:\Mimma Akter\Module-7\ESAD_CS_BAZL_A33_01_7th exam_Project\HRM_DAL\obj\Debug\HRM_DAL.dll
+D:\Mimma Akter\Module-7\ESAD_CS_BAZL_A33_01_7th exam_Project\HRM_DAL\obj\Debug\HRM_DAL.pdb

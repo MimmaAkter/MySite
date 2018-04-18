@@ -1,0 +1,22 @@
+﻿<asp:GridView runat="server" SkinId="gridviewSkin" AllowPaging="True" AutoGenerateColumns="False"  Width="100%" GridLines="Both"
+           PageSize="20" BorderColor="#598BA4" BorderWidth="1px" Font-Names="Tahoma" Font-Size="10pt" ForeColor="#000033"
+                      PagerSettings-Mode="NumericFirstLast" PagerSettings-PageButtonCount="10" PagerSettings-Position="Bottom">
+    
+   <EmptyDataRowStyle  BackColor="#FFFFFF" ForeColor="#FF0000" HorizontalAlign="Center"/>   
+</asp:GridView>
+<asp:GridView runat="server"  SkinId="gridviewSkin1" AllowPaging="False" AutoGenerateColumns="False" 
+CellPadding="4" Width="100%"
+           BorderColor="#D4D0C8" BorderWidth="1px" Font-Names="Tahoma" Font-Size="8pt" Height="20px">
+   <HeaderStyle BackColor="#AED6E9" ForeColor="#004D8F"/>
+   <RowStyle BackColor="#EBEFF9" HorizontalAlign="Center"/> 
+   <AlternatingRowStyle BackColor="#EBEFF9" HorizontalAlign="Center"/>
+   <EditRowStyle BackColor="#B0C9D9" HorizontalAlign="Center"/>
+   <SelectedRowStyle BackColor="#B0C9D9" Font-Bold="True" ForeColor="#333333" />
+   <PagerStyle BackColor="White" ForeColor="#000066" HorizontalAlign="Left" Font-Size="9pt"/>
+   <EmptyDataRowStyle BackColor="#FFFFFF" ForeColor="#FF0000" HorizontalAlign="Center"/>
+</asp:GridView>
+
+<asp:Button runat="server" SkinId="Button" ForeColor="#0060A4" Height="23px"/> 
+<asp:Button runat="server" SkinId="btn" BorderStyle="Outset"
+            BorderWidth="1px" Font-Names="Verdana" Font-Size="1em" 
+            Font-Bold="True"   ForeColor="#0060A4" Height="23px"/> 
